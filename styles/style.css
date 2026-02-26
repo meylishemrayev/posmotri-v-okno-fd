@@ -13,7 +13,7 @@ html {
   justify-content: center;
   align-items: center;
   inline-size: 1200px;
-  block-size: 100%;
+  block-size: 800px;
   margin: auto;
   color: #fff;
   font-family: "Fira Sans Condensed", sans-serif;
@@ -64,7 +64,7 @@ ol {
 
 .content {
   width: 100%;
-  height: 100%;
+  height: 800px;
   display: flex;
   flex-direction: row;
   align-items: flex-end;
