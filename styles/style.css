@@ -262,7 +262,6 @@ ol {
 
 .content__card-link:focus {
   outline: none;
-  outline: 0;
 }
 
 .content__card-link:focus-visible {
